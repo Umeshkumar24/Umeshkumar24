@@ -21,16 +21,12 @@ Here are some of the technologies and tools I work with:
 ![JAVA Badge](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Full Stack Development Badge](https://img.shields.io/badge/-Full%20Stack-339933?style=flat-square&logo= ""`logoColor`="white")
+![Full Stack Development Badge](https://img.shields.io/badge/-Full%20Stack-339933?style=flat-square&logo=fullstack&logoColor=white)
 
 **AI Models & Tools:**
 ![GPT Badge](https://img.shields.io/badge/-GPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![DALL-E Badge](https://img.shields.io/badge/-DALL--E-412991?style=flat-square&logo=openai&logoColor=white)
-![Stable Diffusion Badge](https://img.shields.io/badge/-Stable%20Diffusion- black?style=flat-square&logo=稳定性智库&logoColor=white)
-![MidJourney Badge](https://img.shields.io/badge/-MidJourney- black?style=flat-square&logo=midjourney&logoColor=white)
-![LLaMA Badge](https://img.shields.io/badge/-LLaMA- blue?style=flat-square&logo=meta&logoColor=white)
 ![Gemini Badge](https://img.shields.io/badge/-Gemini-F9AB00?style=flat-square&logo=googleai&logoColor=white)
-![Sora Badge](https://img.shields.io/badge/-Sora- blue?style=flat-square&logo=openai&logoColor=white)
 ![Copilot Badge](https://img.shields.io/badge/-Copilot-007ACC?style=flat-square&logo=github-copilot&logoColor=white)
 
 **Databases & Authentication:**
@@ -40,7 +36,6 @@ Here are some of the technologies and tools I work with:
 
 **DevOps Tools:**
 ![DevOps Badge](https://img.shields.io/badge/-DevOps-4E9A06?style=flat-square&logo=azure-devops&logoColor=white)
-
 
 ## 📂 Key Projects
 
@@ -58,7 +53,6 @@ Here are some of my key projects:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umeshkumar24&show_icons=true&theme=radical) 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umeshkumar24&layout=compact&theme=radical)
-https://github.com/Umeshkumar24/github-readme-stats))*
 
 ## 🏆 GitHub Trophies
 
